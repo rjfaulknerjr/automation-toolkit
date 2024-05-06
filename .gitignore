@@ -49,4 +49,7 @@ terraform.rc
 # Built Visual Studio Code Extensions
 *.vsix
 
-*.retry
+*.retr
+
+# Mac
+.DS_Store
